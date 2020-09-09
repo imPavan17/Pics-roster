@@ -1,0 +1,16 @@
+{
+  "short_name": "Pics Roster",
+  "name": "Pictures Roster",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "prefer_related_applications": "images",
+  "background_color": "#ffffff"
+}
